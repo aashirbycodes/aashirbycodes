@@ -1,83 +1,73 @@
-# 👋 Hi, I'm Syed Aashir Ali
+# SYED AASHIR ALI
 
-### MERN Stack Developer | JavaScript | Next.js | WordPress | SEO
+### MERN Stack Developer & Founder — Building Full-Stack Products, SEO Growth & AI Automation
 
-I'm a MERN Stack Developer focused on building responsive, modern and user-friendly web experiences.
+**Founder @ Elvarent Technologies**
 
-I enjoy turning ideas into clean, functional websites and continuously improving my skills through real-world projects.
+[![Elvarent Technologies](https://img.shields.io/badge/Agency-Elvarent%20Technologies-000000?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://elvarent-technologies.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-000000?style=for-the-badge&logo=vercel&logoColor=00D4FF)](https://syed-aashir-ali.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/syed-aashir-ali-5aa7aa278/)
+[![Email](https://img.shields.io/badge/Direct%20Contact-Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:aashirsyed72@gmail.com)
 
----
+## ⚡ Approach
 
-## 🏢 My Company
+> **Clean code, fast websites, and automation that actually saves time.** That's the standard I build to, whether it's a client project or my own company's stack.
 
-### Elvarent Technologies
-
-Software company delivering full-stack web solutions, SEO, bug fixing, and AI agents/chatbots.
-
-🔗 [Visit Elvarent Technologies](https://elvarent-technologies.vercel.app/)
-
----
-
-## 🚀 What I Do
-
-- 🌐 Full-Stack Web Development (MERN)
-- 🛒 E-commerce Development
-- 🔧 Website Bug Fixing & Maintenance
-- 🔍 SEO Optimization
-- 🤖 AI Agents & Chatbots
-- ⚡ Modern Frontend Development
+I'm a MERN Stack Developer and the founder of Elvarent Technologies, where I build full-stack web products, fix and optimize existing sites for SEO and performance, and ship AI agents/chatbots that automate the repetitive parts of a business.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🏗️ What I Work On
 
-### Languages
-- HTML
-- CSS
-- JavaScript
+### ✦ Elvarent Technologies | *Founder*
 
-### Frameworks & Platforms
-- Next.js
-- Node.js
-- Express.js
-- WordPress
+> Full-stack software company handling everything from a client's first idea to a live, production-ready product.
+>
+> - **Services:** Full-Stack Web Development • SEO & Bug Fixing • AI Agents & Chatbots
 
-### Database
-- MongoDB
+### ✦ Freelance Web Development | *MERN Stack Developer*
 
-### Other Skills
-- SEO
-- Responsive Web Design
-- Git & GitHub
-- UI/UX Implementation
+> Building responsive, modern, user-friendly websites and e-commerce experiences for individual clients.
+>
+> - **Delivery:** Responsive Frontends • E-commerce Builds • Website Maintenance & Fixes
+
+### ✦ AI Agents & Chatbots | *Automation Builder*
+
+> Custom chatbots and AI-driven workflows that handle support, FAQs and lead capture without manual effort.
+>
+> - **Delivery:** Conversational Agents • Workflow Automation • Chatbot Integrations
 
 ---
 
-## 📌 Featured Projects
+## 🛠️ Core Tech Stack
 
-### 🧴 ÉLAN Parfums
-
-**Luxury E-commerce Website**
-
-A premium e-commerce experience created for a fictional luxury fragrance brand, featuring responsive design, product discovery, shopping cart interactions and a refined user interface.
-
-**Tech:** HTML · CSS · JavaScript
-
-🔗 [Live Demo](https://elan-parfums.netlify.app/)
+**Frontend:** HTML, CSS, JavaScript, Next.js
+**Backend:** Node.js, Express.js
+**Database:** MongoDB
+**Platforms:** WordPress
+**Other:** SEO, Git & GitHub, UI/UX Implementation
 
 ---
 
-## 🌐 Portfolio
+## 🚀 Projects & Deployments
 
-🔗 [Visit My Portfolio](https://syed-aashir-ali.netlify.app/)
+| Project | Scope | Stack | Link |
+|---|---|---|---|
+| **[Elvarent Technologies](https://elvarent-technologies.vercel.app/)** | Founder — full-stack company website | `React` `Node.js` `MongoDB` | 🟢 Live |
+| **[ÉLAN Parfums](https://elan-parfums.netlify.app/)** | Luxury e-commerce concept — product discovery, cart, refined UI | `HTML` `CSS` `JavaScript` | 🟢 Live |
 
-## 💼 LinkedIn
+---
 
-🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/syed-aashir-ali-5aa7aa278/)
+## 📬 Let's Build
 
-## 📫 Contact
+If you need a full-stack website, SEO/bug fixes on an existing one, or an AI agent/chatbot to automate part of your business:
 
-📧 **aashirsyed72@gmail.com**
+[![Elvarent Technologies](https://img.shields.io/badge/Elvarent%20Technologies-Get%20In%20Touch-000000?style=for-the-badge&logo=googlechrome&logoColor=00D4FF)](https://elvarent-technologies.vercel.app/)
+[![Email](https://img.shields.io/badge/Direct%20Contact-Email%20Me-000000?style=for-the-badge&logo=gmail&logoColor=00D4FF)](mailto:aashirsyed72@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Professional%20Network-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00D4FF)](https://www.linkedin.com/in/syed-aashir-ali-5aa7aa278/)
+
+**Syed Aashir Ali** • Founder @ Elvarent Technologies
+*Clean code. Fast sites. Real automation.*
 
 ---
 
