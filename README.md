@@ -24,10 +24,16 @@ I enjoy turning ideas into clean, functional websites and continuously improving
 - HTML
 - CSS
 - JavaScript
+- 
 
 ### Frameworks & Platforms
 - Next.js
+- Node.js
+- Express.js
 - WordPress
+
+### DataBase
+- MongoDB
 
 ### Other Skills
 - SEO
