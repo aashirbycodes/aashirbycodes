@@ -51,24 +51,14 @@ A premium e-commerce experience created for a fictional luxury fragrance brand, 
 
 **Tech:** HTML · CSS · JavaScript
 
-🔗 🔗 [Live Demo](https://elan-parfums-ecommerce.netlify.app/)
+🔗 🔗 [Live Demo](https://elan-parfums.netlify.app/)
 
 ---
 
-### 🧮 JavaScript Calculator
-**Interactive Web Application**
-
-A responsive JavaScript calculator featuring arithmetic operations, expression handling and interactive controls.
-
-**Tech:** HTML · CSS · JavaScript
-
-🔗 [Live Demo](https://javascript-calculator-aashir.netlify.app/)
-
----
 
 ## 🌐 Portfolio
 
-🔗 [Visit My Portfolio](https://syed-aashir-portfolio.netlify.app/)
+🔗 [Visit My Portfolio](https://syed-aashir-ali.netlify.app/)
 
 ## 💼 LinkedIn
 
